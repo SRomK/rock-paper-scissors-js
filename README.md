@@ -1,1 +1,1 @@
-# rock-paper-scissors-js
+# rock-paper-scissors created with HTML and JavaScript :)
