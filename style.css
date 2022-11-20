@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+:root {
+    --bg-color: rgb(215, 176, 236);
+}
+
+body{
+    background-color: var(--bg-color);
+}
+
+button {
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin-top: 1.5em;
+    height: 25em;
+    width: auto;
+    border-radius: 5rem;
+}
